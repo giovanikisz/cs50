@@ -29,7 +29,7 @@ You can find my full project on [Scratch Website](https://scratch.mit.edu/projec
 
 
 
-<iframe src="https://scratch.mit.edu/projects/418053427/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<img src="2020/PSET0/avoid_corona_game_screen.png">
 
 
 ## Problem Set 1
