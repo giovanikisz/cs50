@@ -58,4 +58,4 @@ Using the famous game "Mario Bros" as an inspiration this program ask the user t
 On this problem we were told to build a coda using greedy algorithm. According to the National Institute of Standards and Technology (NIST), a greedy algorithm is: 
 > “one that always takes the best immediate, or local, solution while finding an answer. Greedy algorithms find the overall, or globally, optimal solution for some optimization problems, but may find less-than-optimal solutions for some instances of other problems.”
 
-Summarizing, the code was supposed to take a value of change and return how many coins a cashier would have to give to a client, using 0.25 (quarters), 0.10 (dimes), 0.05 (nickels), 0.01 (pennies), for coins values
+Summarizing, the code was supposed to take a value of change and return how many coins a cashier would have to give to a client, using 0.25 (quarters), 0.10 (dimes), 0.05 (nickels), 0.01 (pennies), for coins values.
