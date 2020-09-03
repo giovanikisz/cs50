@@ -3,6 +3,19 @@
 This repository contains my codes from the 2020 CS50x course.
 This is a way of sharing my learning and my projects.
 
+## Progress
+
+- [X] Week 0
+  - [X] Scratch
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
 
 ## Problem Set 1
 
