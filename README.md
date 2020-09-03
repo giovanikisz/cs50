@@ -27,7 +27,15 @@ The firts CS50's problem was a Scratch Project, theme free, just to get used to 
 My project was a game called **AVOID CORONA**, where you use your keyboard's arrows to move left and right, and jump, trying to avoid incomming virus.
 You can find my full project on [Scratch Website](https://scratch.mit.edu/projects/418053427)
 
-<iframe src="https://scratch.mit.edu/projects/418053427/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<iframe src="https://scratch.mit.edu/projects/418053427/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</body>
+</html>
 
 ## Problem Set 1
 
