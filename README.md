@@ -1,6 +1,6 @@
 # CS50 - GIOVANI KISZ
 
-This repository contains my codes com CS50x course from 2020.
+This repository contains my codes from the 2020 CS50x course.
 This is a way of sharing my learning and my projects.
 
 
