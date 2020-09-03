@@ -8,6 +8,9 @@ This is a way of sharing my learning and my projects.
 - [X] Week 0
   - [X] Scratch
 - [ ] Week 1
+  - [X] Mario
+  - [X] Cash
+  - [ ] Credit
 - [ ] Week 2
 - [ ] Week 3
 - [ ] Week 4
@@ -16,6 +19,15 @@ This is a way of sharing my learning and my projects.
 - [ ] Week 7
 - [ ] Week 8
 - [ ] Final Project
+
+## Problem Set 0
+
+The firts CS50's problem was a Scratch Project, theme free, just to get used to programming logic.
+
+My project was a game called **AVOID CORONA**, where you use your keyboard's arrows to move left and right, and jump, trying to avoid incomming virus.
+You can find my full project on [Scratch Website](https://scratch.mit.edu/projects/418053427)
+
+<iframe src="https://scratch.mit.edu/projects/418053427/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## Problem Set 1
 
