@@ -2,7 +2,7 @@
 
 This repository contains my codes from the 2020 CS50x course.
 This is a way of sharing my learning and my projects.
-
+<br><br>
 ## Progress
 
 - [X] Week 0
@@ -20,6 +20,8 @@ This is a way of sharing my learning and my projects.
 - [ ] Week 8
 - [ ] Final Project
 
+<br><br>
+
 ## Problem Set 0
 
 The firts CS50's problem was a Scratch Project, theme free, just to get used to programming logic.
@@ -31,6 +33,7 @@ You can find my full project on [Scratch Website](https://scratch.mit.edu/projec
 
 <img src="2020/PSET0/avoid_corona_game_screen.png">
 
+<br>
 
 ## Problem Set 1
 
