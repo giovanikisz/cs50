@@ -7,15 +7,15 @@ This is a way of sharing my learning and my projects.
 
 - [X] Week 0
   - [X] Scratch
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
+- [ ] Week 1
+- [ ] Week 2
+- [ ] Week 3
+- [ ] Week 4
+- [ ] Week 5
+- [ ] Week 6
+- [ ] Week 7
+- [ ] Week 8
+- [ ] Final Project
 
 ## Problem Set 1
 
