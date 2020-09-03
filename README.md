@@ -16,11 +16,9 @@ The program ask the user's name and print the phrase `hello, [user_name]`.
 
 ### [mario.c](2020/PSET1/mario.c)
 
+Using the famous game "Mario Bros" as an inspiration this program ask the user to enter a height and creat a pyramid of # using the height input.
 <img src="https://cs50.harvard.edu/x/2020/psets/1/mario/more/pyramids.png">
 
 > Image from [CS50x website](https://cs50.harvard.edu/x/2020/psets/1/mario/more/) 
  
-Using the famous game "Mario Bros" as an inspiration this program ask the user to enter a height and creat a pyramid using the height input.
-
-
 ### [cash.c](2020/PSET1/cash.c)
