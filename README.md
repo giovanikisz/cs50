@@ -54,3 +54,6 @@ Using the famous game "Mario Bros" as an inspiration this program ask the user t
 > Image from [CS50x website](https://cs50.harvard.edu/x/2020/psets/1/mario/more/) 
  
 ### [cash.c](2020/PSET1/cash.c)
+
+On this problem we were told to build a coda using greedy algorithm. According to the National Institute of Standards and Technology (NIST), a greedy algorithm is: 
+> “one that always takes the best immediate, or local, solution while finding an answer. Greedy algorithms find the overall, or globally, optimal solution for some optimization problems, but may find less-than-optimal solutions for some instances of other problems.”
