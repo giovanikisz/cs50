@@ -7,10 +7,10 @@ This is a way of sharing my learning and my projects.
 
 - [X] Week 0
   - [X] Scratch
-- [ ] Week 1
+- [X] Week 1
   - [X] Mario
   - [X] Cash
-  - [ ] Credit
+  - [X] Credit
 - [ ] Week 2
 - [ ] Week 3
 - [ ] Week 4
@@ -88,4 +88,4 @@ Besides that, we have to follow some rules:
     2. Starter number: 4
     
 <br>
-For more explanations [visit CS50x website.](https://cs50.harvard.edu/x/2020/psets/1/credit/)
+For more explanations [visit CS50x website](https://cs50.harvard.edu/x/2020/psets/1/credit/).
