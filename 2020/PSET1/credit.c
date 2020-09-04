@@ -68,7 +68,14 @@ int main(void)
         }
         else if (i == 13) //checking lenght for visa
         {
-            printf("VISA\n");
+            if (flag / 1000000000000 == 4) //checking starting digits for visa
+            {
+                printf("VISA\n");
+            }
+            else
+            {
+                printf("INVALID\n");
+            }
         }
         else
         {
