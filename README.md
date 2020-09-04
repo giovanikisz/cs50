@@ -31,7 +31,7 @@ You can find my full project on [Scratch Website](https://scratch.mit.edu/projec
 
 
 
-<img src="2020/PSET0/avoid_corona_game_screen.png">
+<img src="2020/PSET0/scratch_avoid_corona_screen.png">
 
 <br>
 
