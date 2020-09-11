@@ -31,7 +31,7 @@ You can find my full project on [Scratch Website](https://scratch.mit.edu/projec
 
 
 
-<img src="2020/PSET0/scratch_avoid_corona_screen.png">
+<img src="PSET0/scratch_avoid_corona_screen.png">
 
 <br>
 
@@ -39,13 +39,13 @@ You can find my full project on [Scratch Website](https://scratch.mit.edu/projec
 
 Here I have 3 exercises using progamming language C with simple functions.
 
-### [hello.c](2020/PSET1/hello.c)
+### [hello.c](PSET1/hello.c)
 
 Just like anyother programming language, with C we started by creating a _Hello, World!_ code.
 But the intention of this execise was testing the `get_string` function, a function used on CS50 course.
 The program ask the user's name and print the phrase `hello, [user_name]`.
 
-### [mario.c](2020/PSET1/mario.c)
+### [mario.c](PSET1/mario.c)
 
 Using the famous game "Mario Bros" as an inspiration this program ask the user to enter a height and creat a pyramid of # using the height input.
 <br><br>
@@ -53,14 +53,14 @@ Using the famous game "Mario Bros" as an inspiration this program ask the user t
 
 > Image from [CS50x website](https://cs50.harvard.edu/x/2020/psets/1/mario/more/) 
  
-### [cash.c](2020/PSET1/cash.c)
+### [cash.c](PSET1/cash.c)
 
 On this problem we were told to build a coda using greedy algorithm. According to the National Institute of Standards and Technology (NIST), a greedy algorithm is: 
 > “one that always takes the best immediate, or local, solution while finding an answer. Greedy algorithms find the overall, or globally, optimal solution for some optimization problems, but may find less-than-optimal solutions for some instances of other problems.”
 
 Summarizing, the code was supposed to take a value of change and return how many coins a cashier would have to give to a client, using 0.25 (quarters), 0.10 (dimes), 0.05 (nickels), 0.01 (pennies), for coins values.
 
-### [credit.c](2020/PSET1/credit.c)
+### [credit.c](PSET1/credit.c)
 
 This was the hardest exercise within week 1. You should recive a (credit) card number and check if it was valid ou not. Afetar that, you should analyze if it was a American Express, Mastercard or Visa card. The problem here was to deal with so many possibilites: maybe it's okay, but according to the card number's lenght it should be American Express, but because it don't start with 34 or 37 it's invalid.
 
